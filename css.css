@@ -1,0 +1,79 @@
+h1{
+    color:hsl(300, 43%, 22%);
+    font-size: 3rem;
+    line-height: 1.2;
+    font-style: normal;
+    font
+}
+.p1{
+    color: hsl(303, 10%, 53%) ;
+
+}
+
+img{
+    border-radius:  100px;
+    width: px;
+    height: 50px;
+}
+.divi1{
+    background-color:hsl(300, 43%, 22%) ;
+    width: 300px;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 100px;
+}
+.p2{
+    color: white;
+   
+}
+.divi2{
+   display: flex;
+  
+}
+.divi3{
+    margin-left: 20px;
+    margin-top: -10px;
+    
+}
+.p3{
+    color:hsl(333, 80%, 67%);
+    margin-top: -15px;
+}
+.p4{
+    color: white;
+}
+
+
+
+
+
+.divi4{  background-color:hsl(300, 43%, 22%) ;
+    width: 300px;
+    border-radius: 10px;
+    padding: 20px;
+margin-top: 100px;
+
+}
+.divi5{
+    display: flex;
+}
+.divi6{
+    margin-left: 20px;
+    margin-top: -10px;
+}
+.p5{
+    color: white;
+}
+.p6{
+    color:hsl(333, 80%, 67%) ;
+    margin-top: -15px;
+}
+.p7{
+    color: white;
+}
+.divi7{
+display:flex;
+justify-content: space-evenly;
+padding: 50px;  
+    
+}
