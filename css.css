@@ -1,79 +1,115 @@
-h1{
-    color:hsl(300, 43%, 22%);
-    font-size: 3rem;
-    line-height: 1.2;
-    font-style: normal;
-    font
-}
-.p1{
-    color: hsl(303, 10%, 53%) ;
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&family=Playwrite+AU+SA:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&family=Noto+Sans+PhagsPa&family=Playwrite+AU+SA:wght@100..400&display=swap');
 
+body {
+    padding: 150px;
 }
 
-img{
-    border-radius:  100px;
-    width: px;
-    height: 50px;
-}
-.divi1{
-    background-color:hsl(300, 43%, 22%) ;
-    width: 300px;
-    border-radius: 10px;
-    padding: 20px;
-    margin-top: 100px;
-}
-.p2{
-    color: white;
-   
-}
-.divi2{
-   display: flex;
-  
-}
-.divi3{
-    margin-left: 20px;
-    margin-top: -10px;
-    
-}
-.p3{
-    color:hsl(333, 80%, 67%);
-    margin-top: -15px;
-}
-.p4{
-    color: white;
+.p1 {
+    color: hsl(300, 43%, 22%);
+    font-weight: 700;
+    font-family: "League Spartan", serif;
+    font-size: 30px;
 }
 
-
-
-
-
-.divi4{  background-color:hsl(300, 43%, 22%) ;
-    width: 300px;
-    border-radius: 10px;
-    padding: 20px;
-margin-top: 100px;
-
+.p2 {
+    color: hsl(303, 10%, 53%);
 }
-.divi5{
+
+.small1 {
     display: flex;
+    align-items: center;
+    gap: 20px;
+    border: 1px solid hsl(300, 24%, 96%);
+    background-color: hsl(300, 24%, 96%);
+    width: 350px;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 10px;
 }
-.divi6{
-    margin-left: 20px;
-    margin-top: -10px;
+
+img {
+    width: 20px;
+    height: 20px;
 }
-.p5{
+
+.p3 {
+    color: hsl(300, 43%, 22%);
+    font-weight: bold;
+}
+
+
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+
+.first {
+    margin-left: -80px;
+}
+
+.second {
+    margin-left: -40px;
+}
+
+.divi2 {
+    margin-top: 30px;
+}
+
+.pic1 {
+    border-radius: 100px;
+    width: 30px;
+    height: 30px;
+}
+
+
+
+.bdiv {
+    display: flex;
+    align-items: center;
+}
+
+.p4 {
     color: white;
 }
-.p6{
-    color:hsl(333, 80%, 67%) ;
+
+.p5 {
     margin-top: -15px;
+    color: hsl(333, 80%, 67%);
 }
-.p7{
+
+.smallest {
+    margin-left: 20px;
+}
+
+.bottom1 {
+    background-color: hsl(300, 43%, 22%);
+    width: 300px;
+    border-radius: 10px;
+    padding: 20px;
+    height: 200px;
+}
+
+.bdivsmall {
     color: white;
 }
-.divi7{
-display:flex;
-justify-content: space-evenly;
-padding: 50px;  
-    
+
+.bottomain {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.first {
+    margin-top: -20px;
+}
+
+.third {
+    margin-top: 20px;
+
 }
